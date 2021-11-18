@@ -1,7 +1,5 @@
 # SQL-advanced-queries 📑🎓
 
-Watch the result of this project >> [here]()
-
 ## 🎯 Objectives
 - Be able to look up information about sql on the web
 - Be able to query a complicated database schema and answer data questions
