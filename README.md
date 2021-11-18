@@ -17,6 +17,8 @@ Watch the result of this project >> [here]()
 - Familiarize yourself with the database structure
 - Solves questions 1-10
 
+<img width="1061" alt="db" src="https://user-images.githubusercontent.com/84382812/142432229-f1f5480b-f89a-4ce5-8f31-844f411157de.png">
+
 ### 🌻 Nice-to-haves
 - Solves questions 11-25
 
